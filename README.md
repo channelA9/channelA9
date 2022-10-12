@@ -11,6 +11,7 @@ Game Development
 
 Web Development
   Angular - Beginner, actively learning (<1 year)
+  React - Beginner
   HTML - Familiar (+3 years)
   CSS - Familiar (+3 years)
     SCSS - Familiar
