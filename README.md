@@ -10,14 +10,15 @@ Game Development
     - Godot Engine
 
 Web Development
-  - Angular - Beginner, actively learning (<1 year)
-  - React - Beginner
+  - React - Beginner, actively learning (<1year)
+    - Next.js
+  - Angular - Beginner (<1 year)
   - HTML - Familiar (+3 years)
   - CSS - Familiar (+3 years)
     - SCSS - Familiar
     - (Frameworks)
     - Bootstrap - Beginner
-    - TailwindCSS - Beginner
+    - TailwindCSS - Familiar
   - JS - Familiar
   - TypeScript - Beginner
 
