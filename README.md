@@ -1,16 +1,16 @@
 Hey! Welcome to my profile. 
 
-I'm currently dabbling in a multitude of languages as I narrow down my career path in the CS field. 
-I'm also looking to study abroad in Japan starting this August! 
+I'm currently dabbling in a multitude of languages as I narrow down my career path in the coming future.
 
 Web Development
   - React - Beginner, actively learning (<1year)
     - Next.js
+  - Solid - Beginner
   - HTML, CSS, JS - Familiar
     - SCSS - Familiar
     - (Frameworks)
-    - Bootstrap - Beginner
-    - TailwindCSS - Familiar
+      - Bootstrap - Beginner
+      - TailwindCSS - Experienced
   - TypeScript - Beginner
 
 Android Development
@@ -20,11 +20,12 @@ AI/ML
   - Python - Beginner
   
 Databases
-  - SQL - Beginner 
-  - Firebase - Beginner 
-  - Supabase - Beginner 
+  - SQL - Beginner
+  - BaaS
+    - Firebase - Beginner 
+    - Supabase - Familiar 
  
 Game Development
-  - C/C++ - Beginner (<1 year)
-  - Lua - Experienced (+5 years)
+  - C/C++ - Beginner
+  - Lua - Experienced
 
