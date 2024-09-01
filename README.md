@@ -1,31 +1,21 @@
-Hey! Welcome to my profile. 
+## Hey! Welcome to my profile.
 
 I'm currently dabbling in a multitude of languages as I narrow down my career path in the coming future.
 
-Web Development
-  - React - Beginner, actively learning (<1year)
-    - Next.js
-  - Solid - Beginner
-  - HTML, CSS, JS - Familiar
-    - SCSS - Familiar
-    - (Frameworks)
-      - Bootstrap - Beginner
-      - TailwindCSS - Experienced
-  - TypeScript - Beginner
 
-Android Development
-  - Kotlin - Beginner 
-
-AI/ML
-  - Python - Beginner
-  
-Databases
-  - SQL - Beginner
-  - BaaS
-    - Firebase - Beginner 
-    - Supabase - Familiar 
- 
-Game Development
-  - C/C++ - Beginner
-  - Lua - Experienced
-
+<table>
+  <tr>
+    <th>Web Development</th>
+    <th>Game Development</th>
+    <th>Software Development</th>
+    <th>Backend</th>
+    <th>Utility</th>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,html,css,vite,tailwind,react,nextjs,solidjs,vue,npm" /></td>
+    <td><img src="https://skillicons.dev/icons?i=lua,robloxstudio,godot" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,py,kotlin,java" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,workers,cloudflare,supabase,gcp" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,figma" /></td>
+  </tr>
+</table>
